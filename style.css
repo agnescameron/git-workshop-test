@@ -1,8 +1,22 @@
 body {
 	color: white;
 	background-color: pink;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff6f61; /* coral */
+    text-align: center;
+    font-size: 36px;
+}
+
+h2 {
+    color: #3f3f44; /* dark gray */
+    text-align: center;
+    font-size: 24px;
 }
 
 p{
     background-color: aqua;
+   
 }
