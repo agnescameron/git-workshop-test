@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+html, body {
+    cursor: url("doritos.png"), default;
+    /* just change the cursor.ico path to your location */
+    height: 98vh;
+    width: 100vw;
+    margin: 0 !important;
+}
+
+>>>>>>> b90a1b42d7505762b192565d86a64c4d6039d2dc
 body {
 	color: white;
 	background-color: pink;
